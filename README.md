@@ -10,7 +10,7 @@
 
 <br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=c&show_icons=true&theme=synthwave)](https://github.com/maverickdeepak/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maverickdeepak&show_icons=true&theme=synthwave)](https://github.com/maverickdeepak/github-readme-stats)
 
 <br>
 

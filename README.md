@@ -1,4 +1,5 @@
-<h1 style="text-align:center"> Hi 👋 I am Deepak Chauhan</h1>
+<h1 align="center"> Hi 👋 I am Deepak Chauhan</h1>
+<h3 align="center">A passionate Front end Developer from India 🚩</h3>
 
 - 🔭 I’m currently working as an Front end Developer for an Organization
 - 🌱 I’m currently learning React and Angular

@@ -8,6 +8,12 @@
 - 😄 Pronouns: Maverick
 - ⚡ Fun fact: I love Coffee and Travling
 
-</br>
+<br>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=maverickdeepak&show_icons=true&theme=radical)](https://github.com/maverickdeepak/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=c&show_icons=true&theme=synthwave)](https://github.com/maverickdeepak/github-readme-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverickdeepak&layout=compact)](https://github.com/maverickdeepak/github-readme-stats)
+
+<br>

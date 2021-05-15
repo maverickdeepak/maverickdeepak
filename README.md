@@ -16,6 +16,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverickdeepak&layout=compact)](https://github.com/maverickdeepak/github-readme-stats)
 
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maverickdeepak&show_icons=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=maverickdeepak&repo=github-readme-stats)](https://github.com/maverickdeepak/github-readme-stats)
+
 

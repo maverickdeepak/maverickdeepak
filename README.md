@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Front end Developer from India 🚩</h3>
 
 - 🔭 I’m currently working as an Front end Developer for an Organization
-- 🌱 I’m currently learning React and Angular
-- 👯 I’m looking to collaborate on WordPress, Shopify and React Projects
+- 🌱 I’m currently learning React JS and Angular
+- 👯 I’m looking to collaborate on WordPress, Shopify and React JS Projects
 - 💬 Ask me about HTML5, CSS3, JavaScript, jQuery, BootStrap, WordPress, APIs, Shopify etc
 - 📫 How to reach me: <a href="mailto:chauhandeephp@gmail.com">chauhandeephp@gmail.com</a>
 - 😄 Pronouns: Maverick

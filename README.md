@@ -16,5 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverickdeepak&layout=compact)](https://github.com/maverickdeepak/github-readme-stats)
 
-
-[![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=maverickdeepak&show_icons=true)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

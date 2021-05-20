@@ -15,5 +15,3 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maverickdeepak&layout=compact)](https://github.com/maverickdeepak/github-readme-stats)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)

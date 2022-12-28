@@ -4,7 +4,7 @@ Hi 👋 My name is Deepak Chauhan
 JavaScript Wizard
 -----------------
 
-I am a Front End developer with industry experience building websites and web applications. I specialize in HTML5, CSS3, Bootstrap, JavaScript, ReactJS, jQuery, SCSS, VTEX, WordPress, Shopify, e-commerce, Website Optimization, and have professional experience working with WordPress and Custom Front end Development. I also have experience working with PHP, MySQL.
+I am a JavaScript developer with industry experience building websites and web applications. I specialize in HTML5, CSS3, Bootstrap, JavaScript, ReactJS, Node JS, jQuery, SCSS, VTEX, WordPress, Shopify, e-commerce, Website Optimization, and have professional experience working with WordPress and Custom Front end Development. I also have experience working with PHP, MySQL.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://www.deepakchauhan.me/](http://deepakchauhan.me)

@@ -8,7 +8,7 @@ I am a JavaScript developer with industry experience building websites and web a
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://www.deepakchauhan.me/](http://deepakchauhan.me)
-* ✉️  You can contact me at [chauhandeephp@gmail.com](mailto:chauhandeephp@gmail.com)
+* ✉️  You can contact me at [imdeepakchauhan12@gmail.com](mailto:imdeepakchauhan12@gmail.comm)
 * 🤝  I'm open to collaborating on Core Front end, React JS, Next JS, Node JS
 * ⚡  I love Coffee and Traveling
 

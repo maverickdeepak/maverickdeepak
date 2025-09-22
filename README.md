@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Banking Domain**
 
-- 🌱 I’m currently learning **Angular, AWS**
+- 🌱 I’m currently learning **VueJS, AWS**
 
 - 👯 I’m looking to collaborate on **Core Front end, React JS, Next JS, Node JS**
 
